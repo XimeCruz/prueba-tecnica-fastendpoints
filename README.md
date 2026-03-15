@@ -47,7 +47,9 @@ Responde con:
 ### Pasos
 ```bash
 git clone <repo>
-cd TaskManager
+cd prueba-tecnica-fastendpoints
+dotnet restore TaskManager.slnx
+
 
 # Aplicar migraciones
 cd TaskManager.API
