@@ -1,4 +1,4 @@
-# prueba-tecnica-fastendpoint# TaskManager Microservice
+# TaskManager Microservice
 
 Microservicio de gestión de tareas construido con .NET 8, FastEndpoints y Clean Architecture.
 
